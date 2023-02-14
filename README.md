@@ -7,3 +7,7 @@ Was used: Blender
 ![Subdivision](Screenshots/2.%20Subdivision/7.png "Subdivision")
 Was used: Blender
 ***
+### 3. Sculpting
+![Sculpting](Screenshots/3.%20Sculpting/16.png "Sculpting")
+Was used: Blender
+***
