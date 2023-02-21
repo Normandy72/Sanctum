@@ -15,3 +15,6 @@ Was used: Blender
 ![Retopology](Screenshots/4.%20Retopology/37.png "Retopology")
 Was used: Blender
 ***
+### 5. UV-mapping
+Was used: Blender
+***
