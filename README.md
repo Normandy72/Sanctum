@@ -16,5 +16,6 @@ Was used: Blender
 Was used: Blender
 ***
 ### 5. UV-mapping
+![UV-Mapping](Screenshots/5.%20UV-mapping/45.png "UV-Mapping")
 Was used: Blender
 ***
