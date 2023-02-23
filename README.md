@@ -19,3 +19,6 @@ Was used: Blender
 ![UV-Mapping](Screenshots/5.%20UV-mapping/45.png "UV-Mapping")
 Was used: Blender
 ***
+### 6. Ovelapping UV
+Was used: Blender
+***
