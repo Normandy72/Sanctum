@@ -20,5 +20,6 @@ Was used: Blender
 Was used: Blender
 ***
 ### 6. Ovelapping UV
+![Overlapping](Screenshots/6.%20Overlapping%20UV/Final%20packaging/55.png "Overlapping")
 Was used: Blender
 ***
