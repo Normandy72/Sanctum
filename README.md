@@ -23,3 +23,6 @@ Was used: Blender
 ![Overlapping](Screenshots/6.%20Overlapping%20UV/Final%20packaging/55.png "Overlapping")
 Was used: Blender
 ***
+### 7. Backing
+Was used: Marmoset Toolbag
+***
