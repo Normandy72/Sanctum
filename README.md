@@ -24,5 +24,5 @@ Was used: Blender
 Was used: Blender
 ***
 ### 7. Backing
-Was used: Marmoset Toolbag
+Was used: Blender, Marmoset Toolbag
 ***
