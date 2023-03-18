@@ -28,5 +28,6 @@ Was used: Blender
 Were used: Blender, Marmoset Toolbag
 ***
 ### 8. Texturing
+![Texturing](Screenshots/8.%20Texturing/axe_group.png "Texturing")
 Were used: Blender, Marmoset Toolbag, Adobe Substance 3D Painter
 ***
