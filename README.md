@@ -32,5 +32,6 @@ Were used: Blender, Marmoset Toolbag
 Were used: Blender, Marmoset Toolbag, Adobe Substance 3D Painter
 ***
 ### 9. Texturing (part 2)
+![Texturing](Screenshots/9.%20Texturing/obelisk.png "Texturing")
 Were used: Blender, Marmoset Toolbag, Adobe Substance 3D Painter
 ***
