@@ -27,7 +27,9 @@ Was used: Blender
 ![Baking](Screenshots/7.%20Backing/backstone_and_sidestone/texture_normal.png "Backing")
 Were used: Blender, Marmoset Toolbag
 ***
-### 8. Texturing
+### 8. Texturing (part 1)
 ![Texturing](Screenshots/8.%20Texturing/axe_group.png "Texturing")
 Were used: Blender, Marmoset Toolbag, Adobe Substance 3D Painter
+***
+### 9. Texturing (part 2)
 ***
