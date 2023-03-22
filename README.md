@@ -44,3 +44,6 @@ Were used: Blender, Marmoset Toolbag, Adobe Substance 3D Painter
 
 Were used: Blender, Marmoset Toolbag, Adobe Substance 3D Painter
 ***
+### 10. Visualization
+
+Were used: Blender, Marmoset Toolbag
